@@ -8,7 +8,7 @@ Construct a program that allows a coach to continuously enter their round of pic
 
 Create using .NET Core Console Application
 
-The Program should make use of Object Oriented Principles discussed in class and utilize at least one class structure
+The Program should make use of Object Oriented Principles discussed in class and utilize at least one additional class structure beyond the class thats provided in the starter code.
 
 
 
